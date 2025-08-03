@@ -1,3 +1,3 @@
 # Healthcare-prediction-
 Using AI and Machine learning 
-in Ibm cloud
+in Ibm Watson studio 
